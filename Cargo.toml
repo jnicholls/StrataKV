@@ -1,0 +1,8 @@
+[package]
+name = "stratakv"
+version = "0.1.0"
+edition = "2024"
+description = "A high-performance and ACID compliant embedded key-value storage engine"
+license = "MIT"
+
+[dependencies]
