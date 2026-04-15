@@ -2,7 +2,7 @@
 
 ## Project overview
 
-**StrataKV** is an embedded key-value storage engine library written in Rust. It is a single-crate Rust library (`stratakv`) with no external service dependencies.
+**MentatKV** is an embedded key-value storage engine library written in Rust. It is a single-crate Rust library (`mentatkv`) with no external service dependencies.
 
 ## Cursor Cloud specific instructions
 

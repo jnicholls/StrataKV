@@ -1,11 +1,11 @@
-use stratakv::Store;
+use mentatkv::Store;
 
 fn main() {
     let mut store = Store::new();
 
-    println!("=== StrataKV Hello World ===\n");
+    println!("=== MentatKV Hello World ===\n");
 
-    store.put(b"name".to_vec(), b"StrataKV".to_vec());
+    store.put(b"name".to_vec(), b"MentatKV".to_vec());
     store.put(b"version".to_vec(), b"0.1.0".to_vec());
     store.put(b"language".to_vec(), b"Rust".to_vec());
 
