@@ -6,6 +6,10 @@ Build MentatKV into an embeddable, high-performance, ACID key-value storage engi
 
 Source paper: [LearnedKV: Integrating LSM and Learned Index for Superior Performance on Storage](https://arxiv.org/abs/2406.18892).
 
+## Name
+
+The engine is called **MentatKV**, inspired by the Mentats from Dune: a system that learns structure from data, reasons over it efficiently, and serves as a disciplined embedded storage mind for applications.
+
 ## Non-goals for the first implementation
 
 - Distributed consensus, replication, or multi-node transactions.
